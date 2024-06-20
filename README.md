@@ -26,8 +26,8 @@ Foi utilizado como material de apoio para entendimento do desafio o [video](http
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/uFelps/
-cd Desafio Backend BTG
+git clone https://github.com/uFelps/Desafio-Backend-BTG-Pactual.git
+cd Desafio-Backend-BTG-Pactual
 ```
 
 ### Rodando o Docker-Compose
